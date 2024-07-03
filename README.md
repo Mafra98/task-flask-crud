@@ -1,3 +1,4 @@
 # task-flask-crud
 
-Esse projeto foi desenvolvido durante os estudos de Python, Flask e Django
+
+This project was developed while studying Python, Flask and Django
